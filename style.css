@@ -1,0 +1,35 @@
+nav{
+    font-family: 'Rubik', sans-serif;
+    font-size: 22px;
+}
+
+
+#navbar{
+    background-color:#78196e;
+}
+#navbar img{
+    float: left;
+    margin: 10px 10px;
+}
+#navbarNav{
+    margin: 10px 10px 10px 10px;
+}
+#navbarNav a{
+    color: #fff;
+}
+#navbarNav a:hover{
+    color: #000;
+}
+
+.button button{
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    border-style:none;
+}
+
+.carousel img{
+    width:100%;
+    height:700px;
+}
+
